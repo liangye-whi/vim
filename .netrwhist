@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/joshua/.vim/bundle/vim-powerline'
+let g:netrw_dirhist_2='/home/joshua/.config'
+let g:netrw_dirhist_3='/home/joshua/Software/pyaddon/pyscf/lib'
+let g:netrw_dirhist_4='/home/joshua/Software/pyaddon'
+let g:netrw_dirhist_5='/home/joshua/Software/pyaddon/ver0'
+let g:netrw_dirhist_6='/home/joshua/Workdir/python/fci/fci_3.0'
+let g:netrw_dirhist_7='/home/joshua/.vim/ftplugin'
+let g:netrw_dirhist_8='/home/joshua/Workdir/gitprac1'
